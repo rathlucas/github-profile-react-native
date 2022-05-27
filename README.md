@@ -1,5 +1,6 @@
 # DIO
 # github-profile-react-native
+![image](https://user-images.githubusercontent.com/79475372/170695550-391c4338-4b92-499e-8f98-70f6052c93fa.png)
 
 # Conteúdo
 - Conhecendo o React Native
